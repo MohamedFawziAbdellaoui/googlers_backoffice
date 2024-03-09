@@ -1,0 +1,17 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "title": "Googlers",
+      "version": "1.0.0",
+      "description": "This is the description of the APIs"
+    },
+    "servers": [
+      { "url": "http://localhost:3000" } 
+    ],
+    "paths": {
+      
+    },
+    "components": {
+    }
+  }
+  

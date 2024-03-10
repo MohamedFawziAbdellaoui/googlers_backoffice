@@ -15,7 +15,7 @@ This project sets up a development environment using Docker Compose, consisting 
 
 1. Clone this repository.
 2. Navigate to the project directory.
-3. Build the NestJS image:
+3. Build the ENV image:
    ```bash
      docker-compose up --build
    ```
